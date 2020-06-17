@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding-top: 50px;
+}
+form{
+    width: 500px;
+    margin: auto;
+}
+fieldset{
+    padding-top: 10px;
+}
+legend{
+    font-size: 1.4em;
+    font-weight: 800;
+}
+label{
+    font-size: 1.1em;
+    font-weight: 600;
+}
+input{
+    margin-bottom: 10px;
+}
+input:last-of-type{
+    background: #ffffff;
+    border: 1px solid darkgray;
+    border-radius: 15%;
+    padding: 2px 8px;
+}
+input:nth-last-of-type(2){
+    background: #ffffff;
+    border: 1px solid darkgray;
+    border-radius: 15%;
+    padding: 2px 8px;
+}
